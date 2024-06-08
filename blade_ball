@@ -1,0 +1,9 @@
+getgenv().Main = {
+KeySystem = {
+["Enabled"] = false, --// set this true if you want use full function
+["Key"] = "", --//enter key if you enabled keysystem
+["Link_Get_Key"] = "https://link-hub.net/977921/key-system",
+}
+}
+--if u want use full function pls get key
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doitenroi1/Main/main/RacHub.lua"))()
