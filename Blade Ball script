@@ -1,0 +1,11 @@
+Blade Ball Script 1 ( FFJ Hub - Key Required ) :-
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/BladeBallV3.lua"))()
+
+
+Blade Ball Script 2 ( Nizus hub -  No key 🗝  ) :-
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hypurzium/BladeBall/main/NizusLoader.lua"))()
+
+
+
