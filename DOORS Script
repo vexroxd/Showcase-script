@@ -4,7 +4,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/
 
 
 
-Script 2 ( 𝐓𝐫𝐲 𝐭𝐡𝐢𝐬 𝐨𝐧𝐞 𝐢𝐟 𝐒𝐜𝐫𝐢𝐩𝐭 𝟏 𝐝𝐨𝐞𝐬𝐧'𝐭 𝐰𝐨𝐫𝐤 𝐢𝐧 𝐅𝐥𝐨𝐨𝐫 𝟐, 𝐛𝐮𝐭 𝐢𝐭 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐬 𝐚 𝐤𝐞𝐲 ) :-
+
+
+
+Script 2 ( Try this one if Script 1 doesn't work in Floor 2, but it includes a key ) :-
 
 -- Credits to Neuron (Bedol Hub + TTJY Hub)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua"))();
+
+
+
+
+
