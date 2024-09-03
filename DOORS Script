@@ -1,8 +1,8 @@
-Script :-
+-- FFJ HUB V2
+-- DOORS Script
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
 
 
--- FFJ HUB V2
 -- Credit to the owner
 
