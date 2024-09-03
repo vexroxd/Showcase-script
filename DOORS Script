@@ -1,18 +1,8 @@
-Script 1 :-
+Script :-
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
 
 
-
-
-
-
-Script 2 ( Try this one if Script 1 doesn't work in Floor 2, but it includes a key ) :-
-
--- Credits to Neuron (Bedol Hub + TTJY Hub)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua"))();
-
-
-
-
+-- FFJ HUB V2
+-- Credit to the owner
 
