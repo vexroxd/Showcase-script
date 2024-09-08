@@ -1,0 +1,5 @@
+-- Credit to the owner Ratha Tepmanuth
+-- Make sure you're equipping Saitama before executing the script
+-- Use it on your alt account
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RathaTepmanuth10/Kj-script-/main/Kj"))()
