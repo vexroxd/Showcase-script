@@ -1,1 +1,20 @@
+🔴 Script 1: No key required (but this script is currently patched).
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Anime%20Vanguards.lua"))()
+
+🟢 Script 2: Requires a key (still working fine).
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/buang5516/buanghub/main/BUANGHUB.lua"))()
+
+🎈 Note: Use it on your alt acc.
+
+
+
+
+
+
+
+
+
+
+
