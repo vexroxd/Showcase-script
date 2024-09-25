@@ -1,0 +1,6 @@
+--   OP MM2 Script
+--   All credits go to the original creator of this script
+--  Note: I recommend using it on your alt account.
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
