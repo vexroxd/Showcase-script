@@ -1,4 +1,13 @@
 -- Murder Mystery 2 Script
 --  🎈 Note: I recommend using this script on your alt account.
- 
+
+
+-- Script 1 (the one I used in the video) 🎥
+
 loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-Overdrive-H-MM-15035"))()
+
+
+-- Script 2 (no key required) 🔑❌ 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
