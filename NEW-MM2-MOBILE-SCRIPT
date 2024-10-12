@@ -1,0 +1,4 @@
+-- Murder Mystery 2 Script
+--  🎈 Note: I recommend using this script on your alt account.
+ 
+loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-Overdrive-H-MM-15035"))()
