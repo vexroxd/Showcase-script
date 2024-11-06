@@ -1,0 +1,15 @@
+Script 1 (that I showcased in my video):
+
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua"))()
+
+
+
+Script 2:
+
+getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua"))()
+
+
+Note: Both scripts require a key to use.
+
