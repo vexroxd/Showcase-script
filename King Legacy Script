@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main
 Script 2:
 
 
-getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance
+getgenv().CustomDistance = 10 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua"))()
 
